@@ -1,0 +1,2 @@
+
+int decr(int a);
